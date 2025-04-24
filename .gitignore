@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+_grappling38/
+
+# Logs and databases
+*.log
+tracking_log.txt
+*.sqlite3
+
+# Video and media outputs
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# SSD model binaries (optional: download externally)
+*.caffemodel
+*.prototxt
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
